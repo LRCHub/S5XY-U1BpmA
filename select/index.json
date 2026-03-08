@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "オトノバ中間試験",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2026-03-08T09:42:21.559299Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オトノバ中間試験",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_オトノバ中間試験_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オトノバ中間試験",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_オトノバ中間試験_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
